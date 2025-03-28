@@ -63,7 +63,3 @@
 <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
 </div>
 </br>
-
-### 저를 더 알고싶다면
-**🍏기술 블로그**: https://velog.io/@ggororok/posts
-
