@@ -1,5 +1,5 @@
 <h1 align="center"> Minji Kim </h1>
-<div align="center"> <b>안녕하세요. Data Scientist를 꿈꾸는 거북이, 김민지라고 합니다. </b> </div>
+<div align="center"> <b>안녕하세요. Data Analyst를 꿈꾸는 거북이, 김민지라고 합니다. </b> </div>
 
 
 ### ⭐Profile
